@@ -1,6 +1,6 @@
 ![Token Wizard DApp](/docs/github_head.png)
 
-# Token Wizard DApp
+# Ganja Token Wizard DApp
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
 [![Build Status](https://travis-ci.org/poanetwork/token-wizard.svg?branch=master)](https://travis-ci.org/poanetwork/token-wizard)
